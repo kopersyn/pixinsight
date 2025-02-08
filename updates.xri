@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xri version="1.0">
+   <description>
+      <p>
+      This is the repository for PixInsight scripts by Igor Koprowicz.
+    </p>
+   </description>
+   <platform os="all" arch="noarch" version="1.9.2:1.9.9">
+      <package fileName="kscripts.zip" sha1="ec47de2810c6afc951222b8d552cc4ef889ef58e" type="script" releaseDate="20250208">
+         <title>
+        kAdvStarStretch V1.6
+      </title>
+         <description>
+            <h3>kAdvStarStretch V1.6 Update:</h3>
+            <ul>
+               <li>New Function: Fine Adjustments in Arcsinh Stretch Controls</li>
+               <li>UI Update: Improved layout, added Group.</li>
+               <li>UI Update: Fixed preview scaling.</li>
+            </ul>
+         </description>
+      </package>
+   </platform>
+</xri>
+<Signature developerId="IgorKoprowicz" timestamp="2025-02-08T13:31:01.885Z" encoding="Base64">5MVg+pr/ZKUQP4nKSliGgGnKiLmHiSf5n19jmeq/AZJ3Je5fGe+vT0sA5vq60ylgljxMaOfRqUXIg7crBnXECw==</Signature>
