@@ -6,18 +6,17 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.9.2:1.9.9">
-      <package fileName="kscripts.zip" sha1="ec47de2810c6afc951222b8d552cc4ef889ef58e" type="script" releaseDate="20250208">
+      <package fileName="kscripts.zip" sha1="7a1e9e9ab4795993776ccca3725429a084bfdcd0" type="script" releaseDate="20250228">
          <title>
-        kAdvStarStretch V1.6
+        kStarRepair 1.2
       </title>
          <description>
-            <h3>kAdvStarStretch V1.6 Update:</h3>
+            <h3>kStarRepair 1.2</h3>
             <ul>
-               <li>New Function: Fine Adjustments in Arcsinh Stretch Controls</li>
-               <li>UI Update: Improved layout, added Group.</li>
-               <li>UI Update: Fixed preview scaling.</li>
+               <li>Added Color Calibration function. Uses PhotometricColorCalibration or SpectrophotometricColorCalibration to get real star colors.</li>
             </ul>
          </description>
       </package>
    </platform>
 </xri>
+<Signature developerId="IgorKoprowicz" timestamp="2025-02-28T17:32:21.805Z" encoding="Base64">28EvkkQb1/rRK+yp2Xly+Lid8FH93J34TLjq9aZgSagnyfM7nwaTNpn88VfA6Br1AmgYjTcRDPnTsjj9wNiqCA==</Signature>
