@@ -6,17 +6,17 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.9.2:1.9.9">
-      <package fileName="kscripts.zip" sha1="7a1e9e9ab4795993776ccca3725429a084bfdcd0" type="script" releaseDate="20250228">
+      <package fileName="kscripts.zip" sha1="7a1e9e9ab4795993776ccca3725429a084bfdcd0" type="script" releaseDate="20250302204206">
          <title>
-        kStarRepair 1.2
+        kEmissionManager 1.3.1 &amp; kHaBlending 1.4.1
       </title>
          <description>
-            <h3>kStarRepair 1.2</h3>
+            <h3>UI Improvement</h3>
             <ul>
-               <li>Added Color Calibration function. Uses PhotometricColorCalibration or SpectrophotometricColorCalibration to get real star colors.</li>
+               <li>Fixed resizing windows.</li>
             </ul>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="IgorKoprowicz" timestamp="2025-02-28T17:32:21.805Z" encoding="Base64">28EvkkQb1/rRK+yp2Xly+Lid8FH93J34TLjq9aZgSagnyfM7nwaTNpn88VfA6Br1AmgYjTcRDPnTsjj9wNiqCA==</Signature>
+<Signature developerId="IgorKoprowicz" timestamp="2025-03-02T19:42:21.302Z" encoding="Base64">k4E2vQR5q0Ir4j/i9+Vp9GLA1lUOyx0WNMzfUSI+6zp6TD+V70uPKMheTQHip8AFMTVgfofXfZVIqBNHdSybDQ==</Signature>
